@@ -18,7 +18,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <!--Si no aparece en el buscador, para poner nueva denuncia-->
 <div id="container">
 <p>El numero de telefono no aparece en nuestra web, se el primero en denunciarlo</p>
-			<a href="http://localhost/codeigniter/index.php/formularios/nuevo"><input type="submit" class="btn btn-primary" value="Nueva denuncia"></a></li>
+			<a href="http://localhost/proyecto/codeigniter/index.php/formularios/nuevo"><input type="submit" class="btn btn-primary" value="Nueva denuncia"></a></li>
 	</div>
 <!--Explicacion del sitio web-->
 <div id="container" style="margin-top:1%">
